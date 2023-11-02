@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CuponFinderApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="txtdescriptionLogo">logo</string>
+    <string name="txtContentDescriptionLogo">Logo de aplicacion</string>
+    <string name="txtPasswordInput">Contraseña</string>
+    <string name="txtInputLabelMail">Correo electrónico</string>
+    <string name="txtButtonlogin">Iniciar Sesión</string>
+    <string name="textContraseña">¿Olvidaste tu contraseña?</string>
+    <string name="Crearcuentatxt">¿No tienes cuenta? Crear cuenta</string>
+    <string name="txtPregunta">¿Qué tipo de usuario quieres ser?</string>
+    <string name="txtbtn1">Vendedor</string>
+    <string name="txtbtn2">Cliente</string>
+    <string name="txtConfirmPassword">Confirmar contraseña</string>
+</resources>
